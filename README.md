@@ -1,6 +1,6 @@
 # Web Scraping with Beautiful Soup: A Lab
 
-Using Beautiful Soup, the website [ChubbyGrub.com](http://chubbygrub.com), and return a dataframe of **ALL** food items. Your dataframe should look something like this:
+Using Beautiful Soup, scrape [ChubbyGrub.com](http://chubbygrub.com), and create a DataFrame of food items from every restaurant. Your DataFrame should look something like this:
 
 | restaurant | category | name    | calories | carbs | fat |
 |------------|----------|---------|----------|-------|-----|
@@ -11,3 +11,5 @@ Using Beautiful Soup, the website [ChubbyGrub.com](http://chubbygrub.com), and r
 
 ## Deliverables
 Create a Jupyter Notebook showing your code and submit a pull request.
+
+**Note**: Your DataFrame should have 4977 rows
