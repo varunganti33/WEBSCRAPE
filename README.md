@@ -12,4 +12,4 @@ Using Beautiful Soup, scrape [ChubbyGrub.com](http://chubbygrub.com), and create
 ## Deliverables
 Create a Jupyter Notebook showing your code and submit a pull request.
 
-**Note**: Your DataFrame should have 4977 rows
+**Note**: Your DataFrame should have just over 4,900 rows
