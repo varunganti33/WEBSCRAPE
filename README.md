@@ -9,7 +9,5 @@ Using Beautiful Soup, scrape [ChubbyGrub.com](http://chubbygrub.com), and create
 | ... | ...  | ... | ...      | ...    | ...  |
 | Chili's | Ribs  | Shiner Bock® BBQ Ribs | 2310      | 168    | 123  |
 
-## Deliverables
-Create a Jupyter Notebook showing your code and submit a pull request.
 
 **Note**: Your DataFrame should have just over 4,900 rows
