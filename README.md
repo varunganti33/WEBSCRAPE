@@ -1,5 +1,3 @@
-# Web Scraping with Beautiful Soup: A Lab
-
 <!---
 Questions? Comments?:
 1. Log an issue to this repo to alert us of a problem.
