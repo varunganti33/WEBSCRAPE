@@ -9,7 +9,7 @@ Questions? Comments?:
 
 <!--- Unit and sequence information. This template is an instructor-facing description for a given activity or lab. --->
 
-In this lab, you will use Beautiful Soup to scrape [ChubbyGrub.com](http://chubbygrub.com) and create a DataFrame of food items from every restaurant. Your DataFrame should look something like this:
+In this lab, you will use `BeautifulSoup` to scrape [https://pages.git.generalassemb.ly/rldaggie/for-scraping/](https://pages.git.generalassemb.ly/rldaggie/for-scraping/) and create a DataFrame of food items from every restaurant. Your DataFrame should look something like this:
 
 | restaurant | category | name    | calories | carbs | fat |
 |------------|----------|---------|----------|-------|-----|
@@ -19,7 +19,7 @@ In this lab, you will use Beautiful Soup to scrape [ChubbyGrub.com](http://chubb
 | Chili's | Ribs  | Shiner Bock® BBQ Ribs | 2310      | 168    | 123  |
 
 
-**Note**: Your DataFrame should have just over 4,900 rows.
+**Note**: Your DataFrame should have just over 5,000 rows.
 
 ---
 
