@@ -38,4 +38,4 @@ In this lab, you will use `BeautifulSoup` to scrape [https://pages.git.generalas
 **Before this activity, students should already be able to**:
 - Understand basic HTML
 - Use inspect to interpret a website's HTML
-- Use the request and BeautifulSoup libraries
+- Use the `requests` and `BeautifulSoup` libraries
